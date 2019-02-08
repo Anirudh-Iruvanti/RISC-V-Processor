@@ -35,6 +35,7 @@ MUX, Sign extension,
    
 Testbench:
 Test_datapath
+
 -----------------------------------------------------
 
 NOTE:
@@ -66,6 +67,10 @@ Instruction set reference: https://riscv.org/specifications/
 HDL used:
 -------------
 Verilog
+
+Application tested:
+----------------------
+Factorial of a number.
 
 ---------------------------------------------------------
 
