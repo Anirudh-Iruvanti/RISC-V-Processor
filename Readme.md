@@ -48,7 +48,7 @@ explains in detail the flowchart/block level design and the datapath.
 Purpose:
 -----------
 
-This project demonstrates the working of a 32 bit, RISC V processor, which is a free and open ISA (Instruction Set Architecture) enabling open standard collaboration. The RISC-V ISA was originally developed in the Computer Science Division of the EECS Department at the University of California, Berkeley. This project has been implemented for 5 stages of pipelining and includes data and control hazards.
+This project demonstrates the working of a 32 bit, pipelined, RISC V processor, which is based on a free and open ISA (Instruction Set Architecture) enabling open standard collaboration. The RISC-V ISA was originally developed in the Computer Science Division of the EECS Department at the University of California, Berkeley. This project has been implemented for 5 stages of pipelining and includes data and control hazards.
 
 https://riscv.org/risc-v-foundation/
 https://bar.eecs.berkeley.edu/projects/riscv.html
